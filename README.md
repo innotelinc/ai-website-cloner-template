@@ -2,6 +2,10 @@
 
 # AI Website Cloner Template
 
+[![CI](https://github.com/innotelinc/ai-website-cloner-template/actions/workflows/ci.yml/badge.svg)](https://github.com/innotelinc/ai-website-cloner-template/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 ### Clone any website with one command
 
 Give your AI coding agent a URL and watch it recreate the website as a clean Next.js app.
@@ -36,6 +40,18 @@ Give your AI coding agent a URL and watch it recreate the website as a clean Nex
 </div>
 
 ---
+
+## Why AI Website Cloner
+
+| Problem | Answer |
+| --- | --- |
+| Rebuilding a site by hand is slow. | An agent walks the pages and writes the components. |
+| A cloned site is usually a mess. | The output is a small Next.js app with the structure a person can edit. |
+| The workflow depends on one agent. | The skills are plain instructions that any coding agent can follow. |
+
+Its place in the stack is [docs/stack.md](docs/stack.md); the canonical
+definition of the shared layers is the
+[Innotel Platform Stack](https://github.com/innotelinc/innotel-platform-stack).
 
 ## Demo
 
